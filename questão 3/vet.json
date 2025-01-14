@@ -1,0 +1,11 @@
+{
+  "faturamento": [
+    { "fat_dia": 1, "valor": 1000 },
+    { "fat_dia": 2, "valor": 20000 },
+    { "fat_dia": 3, "valor": 50 },
+    { "fat_dia": 4, "valor": 1500 },
+    { "fat_dia": 5, "valor": 0 },
+    { "fat_dia": 6, "valor": 10000 },
+    { "fat_dia": 7, "valor": 1 }
+  ]
+}
